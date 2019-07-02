@@ -79,8 +79,6 @@ All the Data is stored in a MongoDB database.
     ```
 1) access the application front-end on [http://localhost:4201](http://localhost:4201)
 
-> if needed, application back-end is accessible on [http://localhost:3001](http://localhost:3001) and application's mongo database is accessible at `localhost:27019`
-
 > Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for more options on running the web app locally.
 
 > Please refer to [BYOR-VotingApp \[server\]](https://github.com/thoughtworks/byor-voting-server) Github repository for more options on running the server locally and connect to a MongoDB database.
